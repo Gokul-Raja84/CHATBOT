@@ -16,6 +16,8 @@ This repository contains a Python-based Chatbot project that utilizes the OpenAI
 
 By setting 'share=True', you can share the URL of the Gradio interface with others, allowing them to interact with the chatbot as well. The chatbot's versatility makes it suitable for integration into various applications, including customer support systems, interactive help desks, and personalized assistants, offering real-time responses to users' queries and enhancing user experience.
 
+[AI Voice Assistant](https://github.com/Gokul-Raja84/CHATBOT/blob/main/AI%20Assistant.py) - The "AI Assistant" is a virtual assistant powered by artificial intelligence, designed to simplify your daily tasks. With an intuitive voice and text interface, it offers seamless interaction for various functions. The assistant can open applications like Notepad, Spotify, and more upon voice command. It provides real-time information, including time, date, and weather. You can enjoy entertainment with YouTube video playback, read jokes, and receive helpful advice. The assistant ensures efficient communication by sending instant WhatsApp messages. Access your favorite websites like Wikipedia and conduct web searches with ease. The assistant even offers email functionality and can open various applications effortlessly. The "AI Assistant" streamlines your routine tasks, making technology an invaluable asset in your daily life.
+
 ## Chatbot Web Interface
 
 <img width="960" alt="image" src="https://github.com/Gokul-Raja84/CHATBOT/assets/106546785/96688105-b978-40d8-8d8d-79d7b087ac8f">
